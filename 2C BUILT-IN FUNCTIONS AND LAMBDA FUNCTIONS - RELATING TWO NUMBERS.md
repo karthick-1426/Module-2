@@ -23,18 +23,14 @@ To write a Python program to check the relation between two numbers — whether 
 
 ### PROGRAM
 
-```
-
+```python
+absolute = lambda a : abs(a)
+x=eval(input())
+print("Absolute value:",absolute(x))
 ```
 
 ### OUTPUT
-
-```
-
-```
+<img width="1206" height="295" alt="image" src="https://github.com/user-attachments/assets/e2a09277-31ae-476d-b7ab-c3ba0f8dde26" />
 
 ### RESULT
-
-```
-
-```
+Therefore, the output is the example to check the relation between two numbers — whether one number is greater than, equal to, or lesser than another — using a lambda function.
